@@ -1,3 +1,12 @@
+
+Em dupla
+
+Crie um repositório no Github e implemente um script que pede ao usuário
+dois números e que calcule o MMC dos mesmos, após isso sua dupla irá fazer
+um FORK do seu repositório e irá implementar a lógica de calcular o MDC,
+pedindo um pull request
+
+-----------------------------------------------------------------------------------------------------------------------
 # cadastro-aluno-node
 Exercício de cadastro de aluno com NodeJs
 
