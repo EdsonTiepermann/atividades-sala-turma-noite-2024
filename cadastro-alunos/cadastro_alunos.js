@@ -35,9 +35,7 @@ while (true) {
     } else {
       alunos.forEach((alunos, index) => {
         console.log(
-          `${index + 1}. ${alunos.aluno} - ${alunos.idade} - ${alunos.data} - ${
-            alunos.curso
-          }`
+          `${index + 1}. ${alunos.aluno} - ${alunos.idade} - ${alunos.curso}          }`
         );
       });
     }
@@ -48,4 +46,4 @@ while (true) {
     console.log("Opção inválida. Tente novamente.");
     break;
   }
-}
+} 
