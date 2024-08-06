@@ -33,7 +33,7 @@ while (true) {
       deletarResidencia();
       break;
     case 0:
-      console.log("Saindo do menu, até mais!");
+      console.log("Saindo do menu!");
       return;
     default:
       console.log("Vocẽ deve digitar uma opção válida!");
