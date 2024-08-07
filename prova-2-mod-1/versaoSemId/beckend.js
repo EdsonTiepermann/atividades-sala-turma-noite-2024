@@ -52,7 +52,7 @@ const listarResidencia = () => {
     residencias.forEach((residencia, index) => {
       console.log(
         `Index: ${index +1}
-        zBairro: ${residencia.bairro}, 
+         Bairro: ${residencia.bairro}, 
          Rua: ${residencia.rua}, 
          Número: ${residencia.numero}`
       );
